@@ -65,7 +65,7 @@ const defaultConfig = {
   "useNicknames": false,
   "ignoreAccidentalThreads": false,
   "threadTimestamps": false,
-  "allowMove": false,
+  "allowMove": true,
   "syncPermissionsOnMove": false,
   "typingProxy": false,
   "typingProxyReverse": false,
